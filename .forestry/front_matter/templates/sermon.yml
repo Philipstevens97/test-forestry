@@ -1,4 +1,19 @@
 ---
 label: Sermon
 hide_body: true
-fields: []
+fields:
+- name: sermon_title
+  type: text
+  config:
+    required: true
+  label: Sermon Title
+- name: preacher
+  type: text
+  config:
+    required: true
+  label: Preacher
+- name: scripture
+  type: text
+  config:
+    required: false
+  label: Scripture
