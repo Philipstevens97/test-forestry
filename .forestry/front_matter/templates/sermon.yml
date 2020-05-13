@@ -17,3 +17,5 @@ fields:
   config:
     required: false
   label: Scripture
+pages:
+- content/sermons/how-to-pray-the-bible.md
